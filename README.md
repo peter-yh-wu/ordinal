@@ -1,6 +1,6 @@
 # Ordinal Triplet Loss
 
-PyTorch implementation of Ordinal Triplet Loss paper
+PyTorch implementation of Ordinal Triplet Loss [paper](https://pdfs.semanticscholar.org/17b6/74d628358864ae2548eaf41ff1c9cd384d59.pdf)
 
 Using data from the 2019 ComParE Sleepiness challenge ([website](http://www.compare.openaudio.eu/compare2019/))
 
